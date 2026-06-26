@@ -1,6 +1,6 @@
 { pkgs }: {
   deps = [
-    pkgs.python311Full
+    pkgs.python310Full
     pkgs.xorg.xorgserver
     pkgs.x11vnc
     pkgs.fluxbox
